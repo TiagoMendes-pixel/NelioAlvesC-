@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.exe
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.deps.json
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.runtimeconfig.json
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.dll
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.pdb
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.dll
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.pdb
+C:\Users\Tiago\source\repos\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.exe
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.deps.json
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.runtimeconfig.json
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.dll
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.pdb
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.dll
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.pdb
+C:\Users\Tiago\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.genruntimeconfig.cache

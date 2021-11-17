@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\obj\Debug\netcoreapp3.1\CourseNelioAlves.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\obj\Debug\netcoreapp3.1\CourseNelioAlves.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\obj\Debug\netcoreapp3.1\CourseNelioAlves.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\obj\Debug\netcoreapp3.1\CourseNelioAlves.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\bin\Debug\netcoreapp3.1\CourseNelioAlves.exe
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\bin\Debug\netcoreapp3.1\CourseNelioAlves.deps.json
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\bin\Debug\netcoreapp3.1\CourseNelioAlves.runtimeconfig.json
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\bin\Debug\netcoreapp3.1\CourseNelioAlves.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\bin\Debug\netcoreapp3.1\CourseNelioAlves.dll
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\bin\Debug\netcoreapp3.1\CourseNelioAlves.pdb
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\obj\Debug\netcoreapp3.1\CourseNelioAlves.dll
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\obj\Debug\netcoreapp3.1\CourseNelioAlves.pdb
+C:\Users\Tiago\source\repos\CourseNelioAlves\CourseNelioAlves\obj\Debug\netcoreapp3.1\CourseNelioAlves.genruntimeconfig.cache

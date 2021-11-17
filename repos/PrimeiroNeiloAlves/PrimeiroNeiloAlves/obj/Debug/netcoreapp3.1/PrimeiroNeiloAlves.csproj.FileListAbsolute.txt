@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\bin\Debug\netcoreapp3.1\PrimeiroNeiloAlves.exe
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\bin\Debug\netcoreapp3.1\PrimeiroNeiloAlves.deps.json
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\bin\Debug\netcoreapp3.1\PrimeiroNeiloAlves.runtimeconfig.json
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\bin\Debug\netcoreapp3.1\PrimeiroNeiloAlves.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\bin\Debug\netcoreapp3.1\PrimeiroNeiloAlves.dll
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\bin\Debug\netcoreapp3.1\PrimeiroNeiloAlves.pdb
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\obj\Debug\netcoreapp3.1\PrimeiroNeiloAlves.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\obj\Debug\netcoreapp3.1\PrimeiroNeiloAlves.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\obj\Debug\netcoreapp3.1\PrimeiroNeiloAlves.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\obj\Debug\netcoreapp3.1\PrimeiroNeiloAlves.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\obj\Debug\netcoreapp3.1\PrimeiroNeiloAlves.dll
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\obj\Debug\netcoreapp3.1\PrimeiroNeiloAlves.pdb
+C:\Users\Tiago\source\repos\PrimeiroNeiloAlves\PrimeiroNeiloAlves\obj\Debug\netcoreapp3.1\PrimeiroNeiloAlves.genruntimeconfig.cache

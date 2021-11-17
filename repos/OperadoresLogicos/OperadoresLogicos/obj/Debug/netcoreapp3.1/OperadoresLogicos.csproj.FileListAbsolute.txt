@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.exe
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.deps.json
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.json
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.dll
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.dll
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+C:\Users\Tiago\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.genruntimeconfig.cache
