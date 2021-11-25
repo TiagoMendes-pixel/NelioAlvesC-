@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\bin\Debug\netcoreapp3.1\EscopoEInicializacao.exe
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\bin\Debug\netcoreapp3.1\EscopoEInicializacao.deps.json
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\bin\Debug\netcoreapp3.1\EscopoEInicializacao.runtimeconfig.json
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\bin\Debug\netcoreapp3.1\EscopoEInicializacao.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\bin\Debug\netcoreapp3.1\EscopoEInicializacao.dll
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\bin\Debug\netcoreapp3.1\EscopoEInicializacao.pdb
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\obj\Debug\netcoreapp3.1\EscopoEInicializacao.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\obj\Debug\netcoreapp3.1\EscopoEInicializacao.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\obj\Debug\netcoreapp3.1\EscopoEInicializacao.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\obj\Debug\netcoreapp3.1\EscopoEInicializacao.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\obj\Debug\netcoreapp3.1\EscopoEInicializacao.dll
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\obj\Debug\netcoreapp3.1\EscopoEInicializacao.pdb
+C:\Users\Tiago\source\repos\EscopoEInicializacao\EscopoEInicializacao\obj\Debug\netcoreapp3.1\EscopoEInicializacao.genruntimeconfig.cache

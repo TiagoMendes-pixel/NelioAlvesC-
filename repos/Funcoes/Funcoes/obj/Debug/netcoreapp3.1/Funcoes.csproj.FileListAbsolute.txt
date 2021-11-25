@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.exe
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.deps.json
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.json
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\Tiago\source\repos\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.genruntimeconfig.cache
