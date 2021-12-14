@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.exe
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.deps.json
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.json
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.dll
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.dll
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+C:\Users\Tiago\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.genruntimeconfig.cache

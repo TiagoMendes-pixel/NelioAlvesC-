@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\bin\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.exe
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\bin\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.deps.json
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\bin\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.runtimeconfig.json
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\bin\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\bin\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.dll
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\bin\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.pdb
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\obj\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\obj\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\obj\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\obj\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\obj\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.dll
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\obj\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.pdb
+C:\Users\Tiago\source\repos\PrimeirosExerciciosPOO\PrimeirosExerciciosPOO\obj\Debug\netcoreapp3.1\PrimeirosExerciciosPOO.genruntimeconfig.cache

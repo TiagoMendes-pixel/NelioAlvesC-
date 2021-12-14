@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.exe
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.deps.json
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.runtimeconfig.json
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.dll
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.pdb
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.dll
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.pdb
+C:\Users\Tiago\source\repos\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.genruntimeconfig.cache

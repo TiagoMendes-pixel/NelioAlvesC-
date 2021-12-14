@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\obj\Debug\netcoreapp3.1\Exrcicio2POO.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\obj\Debug\netcoreapp3.1\Exrcicio2POO.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\obj\Debug\netcoreapp3.1\Exrcicio2POO.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\obj\Debug\netcoreapp3.1\Exrcicio2POO.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\bin\Debug\netcoreapp3.1\Exrcicio2POO.exe
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\bin\Debug\netcoreapp3.1\Exrcicio2POO.deps.json
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\bin\Debug\netcoreapp3.1\Exrcicio2POO.runtimeconfig.json
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\bin\Debug\netcoreapp3.1\Exrcicio2POO.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\bin\Debug\netcoreapp3.1\Exrcicio2POO.dll
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\bin\Debug\netcoreapp3.1\Exrcicio2POO.pdb
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\obj\Debug\netcoreapp3.1\Exrcicio2POO.dll
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\obj\Debug\netcoreapp3.1\Exrcicio2POO.pdb
+C:\Users\Tiago\source\repos\Exrcicio2POO\Exrcicio2POO\obj\Debug\netcoreapp3.1\Exrcicio2POO.genruntimeconfig.cache

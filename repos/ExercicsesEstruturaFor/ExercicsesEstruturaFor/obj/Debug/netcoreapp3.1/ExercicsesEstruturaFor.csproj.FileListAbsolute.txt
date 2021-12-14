@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\bin\Debug\netcoreapp3.1\ExercicsesEstruturaFor.exe
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\bin\Debug\netcoreapp3.1\ExercicsesEstruturaFor.deps.json
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\bin\Debug\netcoreapp3.1\ExercicsesEstruturaFor.runtimeconfig.json
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\bin\Debug\netcoreapp3.1\ExercicsesEstruturaFor.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\bin\Debug\netcoreapp3.1\ExercicsesEstruturaFor.dll
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\bin\Debug\netcoreapp3.1\ExercicsesEstruturaFor.pdb
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\obj\Debug\netcoreapp3.1\ExercicsesEstruturaFor.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\obj\Debug\netcoreapp3.1\ExercicsesEstruturaFor.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\obj\Debug\netcoreapp3.1\ExercicsesEstruturaFor.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\obj\Debug\netcoreapp3.1\ExercicsesEstruturaFor.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\obj\Debug\netcoreapp3.1\ExercicsesEstruturaFor.dll
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\obj\Debug\netcoreapp3.1\ExercicsesEstruturaFor.pdb
+C:\Users\Tiago\source\repos\ExercicsesEstruturaFor\ExercicsesEstruturaFor\obj\Debug\netcoreapp3.1\ExercicsesEstruturaFor.genruntimeconfig.cache

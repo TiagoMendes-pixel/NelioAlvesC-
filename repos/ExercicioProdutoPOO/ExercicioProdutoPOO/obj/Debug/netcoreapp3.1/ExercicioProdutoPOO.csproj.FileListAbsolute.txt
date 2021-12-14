@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\bin\Debug\netcoreapp3.1\ExercicioProdutoPOO.exe
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\bin\Debug\netcoreapp3.1\ExercicioProdutoPOO.deps.json
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\bin\Debug\netcoreapp3.1\ExercicioProdutoPOO.runtimeconfig.json
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\bin\Debug\netcoreapp3.1\ExercicioProdutoPOO.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\bin\Debug\netcoreapp3.1\ExercicioProdutoPOO.dll
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\bin\Debug\netcoreapp3.1\ExercicioProdutoPOO.pdb
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\obj\Debug\netcoreapp3.1\ExercicioProdutoPOO.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\obj\Debug\netcoreapp3.1\ExercicioProdutoPOO.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\obj\Debug\netcoreapp3.1\ExercicioProdutoPOO.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\obj\Debug\netcoreapp3.1\ExercicioProdutoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\obj\Debug\netcoreapp3.1\ExercicioProdutoPOO.dll
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\obj\Debug\netcoreapp3.1\ExercicioProdutoPOO.pdb
+C:\Users\Tiago\source\repos\ExercicioProdutoPOO\ExercicioProdutoPOO\obj\Debug\netcoreapp3.1\ExercicioProdutoPOO.genruntimeconfig.cache

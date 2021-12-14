@@ -1,0 +1,12 @@
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\bin\Debug\netcoreapp3.1\POOExercise2.exe
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\bin\Debug\netcoreapp3.1\POOExercise2.deps.json
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\bin\Debug\netcoreapp3.1\POOExercise2.runtimeconfig.json
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\bin\Debug\netcoreapp3.1\POOExercise2.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\bin\Debug\netcoreapp3.1\POOExercise2.dll
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\bin\Debug\netcoreapp3.1\POOExercise2.pdb
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\obj\Debug\netcoreapp3.1\POOExercise2.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\obj\Debug\netcoreapp3.1\POOExercise2.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\obj\Debug\netcoreapp3.1\POOExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\obj\Debug\netcoreapp3.1\POOExercise2.dll
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\obj\Debug\netcoreapp3.1\POOExercise2.pdb
+C:\Users\Tiago\source\repos\POOExercise2\POOExercise2\obj\Debug\netcoreapp3.1\POOExercise2.genruntimeconfig.cache

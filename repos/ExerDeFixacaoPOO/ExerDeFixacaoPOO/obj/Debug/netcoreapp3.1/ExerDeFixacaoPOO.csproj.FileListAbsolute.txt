@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerDeFixacaoPOO.exe
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerDeFixacaoPOO.deps.json
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerDeFixacaoPOO.runtimeconfig.json
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerDeFixacaoPOO.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerDeFixacaoPOO.dll
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerDeFixacaoPOO.pdb
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerDeFixacaoPOO.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerDeFixacaoPOO.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerDeFixacaoPOO.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerDeFixacaoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerDeFixacaoPOO.dll
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerDeFixacaoPOO.pdb
+C:\Users\Tiago\source\repos\ExerDeFixacaoPOO\ExerDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerDeFixacaoPOO.genruntimeconfig.cache

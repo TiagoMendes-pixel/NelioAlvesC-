@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.exe
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.deps.json
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.runtimeconfig.json
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.dll
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.pdb
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.dll
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.pdb
+C:\Users\Tiago\source\repos\ExerciciosDeFixacaoPOO\ExerciciosDeFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosDeFixacaoPOO.genruntimeconfig.cache
